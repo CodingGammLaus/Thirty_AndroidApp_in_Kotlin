@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ThirtyThrows</string>
+    <string name="name">Thirty</string>
+    <string name="made_by">Made by Simon Lindgren</string>
+    <string name="result">Result</string>
+    <string name="throw_button">THROW</string>
+    <string name="result_button">RESULT</string>
+    <string name="next_button">NEXT ROUND</string>
+    <string name="pair_button">PAIR</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="stat">Score: 0 | Round: 1</string>
+    <string name="game">Game</string>
+    <string name="throws_left">Throws left: 3</string>
+    <string name="info">\?</string>
+    <string name="low">Low</string>
+    <string name="dice">Dice</string>
+    <string name="game_result">GAME</string>
+    <string name="score_result">SCORE</string>
+    <string name="zero">0</string>
+
+    <string name="result_Low">Low</string>
+    <string name="result_4">4</string>
+    <string name="result_5">5</string>
+    <string name="result_6">6</string>
+    <string name="result_7">7</string>
+    <string name="result_8">8</string>
+    <string name="result_9">9</string>
+    <string name="result_10">10</string>
+    <string name="result_11">11</string>
+    <string name="result_12">12</string>
+    <string name="result_total">Total</string>
+
+</resources>
